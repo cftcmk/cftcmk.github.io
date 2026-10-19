@@ -1,0 +1,6 @@
+{
+  "name": "CFD 行銷企劃課 - 線上庫存與樣品管理平台",
+  "description": "CFD 行銷企劃課線上庫存管理平台，採用簡約低飽和度風格，清晰呈現 No Tool 與 Blinds 產品品項規格、編號排版與流通借用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
